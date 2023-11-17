@@ -1,5 +1,7 @@
 # Eigenmodes of the Brain: Revisiting Connectomics and Geometry
 
+![banner image](https://github.com/sina-mansour/brain_eigenmodes/blob/main/readme.png?raw=true)
+
 This repository contains code and data supporting our recent manuscript titled "Eigenmodes of the Brain: Revisiting Connectomics and Geometry." Our study explores specific aspects discussed in the article ["Geometric Constraints on Human Brain Function" (Pang et al. 2023)](https://doi.org/10.1038/s41586-023-06098-1).
 
 ---
