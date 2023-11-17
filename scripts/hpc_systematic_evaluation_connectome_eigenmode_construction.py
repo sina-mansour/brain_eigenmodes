@@ -67,7 +67,7 @@ def prepare_parameters(arguments):
     # locate the high-resolution connectome file
     if tractography == "pang":
         connectome_file = f"{main_dir}/data/connectomes/pang_group_average_connectome.npz"
-    elif tractography == "optimized":
+    elif tractography == "ours":
         connectome_file = f"{main_dir}/data/connectomes/our_group_average_connectome.npz"
     else:
         raise ValueError("Incorrect option provided for the tractography parameter.")
