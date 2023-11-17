@@ -35,3 +35,9 @@ We've included minimal data within this repository to facilitate reproducibility
 - Additionally, several template files used in our analyses are included in the `data/templates` directory.
 
 ---
+
+## Get in Touch
+
+If you're considering using the provided data for your own research purposes beyond reproducing our findings, we're here to help! Feel free to contact us at:
+
+[![sina \[dot\] mansour \[dot\] lakouraj \[at\] gmail](https://img.shields.io/badge/Contact-sina%20[dot]%20mansour%20[dot]%20lakouraj%20[at]%20gmail-blue)](https://sina-mansour.github.io/)
